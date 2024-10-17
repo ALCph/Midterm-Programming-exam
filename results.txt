@@ -1,0 +1,2 @@
+Average class grade: 68.36
+Number of students in class that scored above the average: 7
